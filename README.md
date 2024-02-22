@@ -5,7 +5,7 @@
 - <b>Prognosis AI website for trading and market decisions</b>
   - [Prognosis](https://prognosistrade.com/)
 - <b>AryArtificial specializes in AI solutions for creative industries, offering tools for art generation and design enhancement.</b>
-  - [Aryartificial](https://aryartificial.com/) <b><i>(Potentially NSFW)</b></i>
+  - [Aryartificial](https://aryartificial.com/)
 - <b>SupremeAgency specializes in comprehensive digital marketing services, striving to boost brand presence and engagement online</b>
   - [Supreme](https://aryartificial.com/](https://supremeagency.ca/ )
 - <b>Hiraya Tech delivers innovative tech solutions aimed at driving digital transformation and fostering sustainable growth for businesses.</b>
