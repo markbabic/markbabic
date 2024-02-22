@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mark! <br/><a href="https://github.com/markbabic">Junior Software Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT support</a>, <a href="https://www.youtube.com/c/joshmadakor">Crypto Enthusiast</a></h1>
+<h1>Hi, I'm Mark! <br/><a href="https://github.com/markbabic">Junior Software Developer</a>, <a href="https://markbabic.github.io/My-website/">AI Agency owner</a>, <a href="https://coinmarketcap.com/community/profile/FoxyTroxy44/">Crypto Enthusiast</a></h1>
 
 <h2>👨‍💻 My web Projects for clients:</h2>
 
